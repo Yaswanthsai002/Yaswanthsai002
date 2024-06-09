@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kotagiri Yaswanth Sai</h1>
-<h3 align="center">"Software | Web Developer | Based in India"</h3>
+<h3 align="center">"College Graduate | Web Developer | Based in India"</h3>
 
 - 🌱 I’m currently learning **React JS**
 

@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/yaswanthsai002/yaswanthsai002/assets/57896227/de6fdeaf-3dc7-449a-8e7b-5f54691bb00a)](https://yaswanth-sai.vercel.app/)
+<!--- [![MasterHead](https://github.com/yaswanthsai002/yaswanthsai002/assets/57896227/de6fdeaf-3dc7-449a-8e7b-5f54691bb00a)](https://yaswanth-sai.vercel.app/) -->
+
+![MasterHead](https://github.com/yaswanthsai002/yaswanthsai002/assets/57896227/de6fdeaf-3dc7-449a-8e7b-5f54691bb00a)
 
 <h1 align="center">Hi 👋, I'm Kotagiri Yaswanth Sai</h1>
 <h3 align="center">College Graduate | Web Developer</h3>
@@ -17,9 +19,9 @@
 
 - 🤝 I’m looking for help with **Asana AI**
 
-- 👨‍💻 All of my projects are available at [yaswanth-sai.vercel.app](yaswanth-sai.vercel.app)
+<!-- - 👨‍💻 All of my projects are available at [yaswanth-sai.vercel.app](yaswanth-sai.vercel.app) -->
 
-- 💬 Ask me about **Python**
+<!-- - 💬 Ask me about **Python** -->
 
 - 📫 How to reach me **yaswanthsaikotagiri1@gmail.com**
 

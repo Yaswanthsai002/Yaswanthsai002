@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/yaswanthsai002/yaswanthsai002/assets/57896227/de6fdeaf-3dc7-449a-8e7b-5f54691bb00a)](https://www.yaswanth-sai.vercel.app)
+[![MasterHead](https://github.com/yaswanthsai002/yaswanthsai002/assets/57896227/de6fdeaf-3dc7-449a-8e7b-5f54691bb00a)](https://yaswanth-sai.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Kotagiri Yaswanth Sai</h1>
 <h3 align="center">College Graduate | Web Developer</h3>
